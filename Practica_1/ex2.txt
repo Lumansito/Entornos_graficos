@@ -1,0 +1,12 @@
+2.a) Es un comentario que sirve para los propios desarrolladores.No es obligatorio.
+
+2.b) Es un div que sirve como un contenedor para colocar contenido en el a la hora de armar la pag web, atributo id, utilizado para llamarlo en la hoja de estilo. No es obligatorio pero es de buena practica utilizarlo.
+
+2.c) Es una etiqueta de imagen en la cual es necesario la utilizacion de los atributos de src para la ubicacion de la imagen, tambien se encauentran los atributos de alt que indica un mensaje al pasar el cursor por encima de la imagen, tambien posee un id, un width y height lo cual permite modificar el tamaño de la img y por ultimo el longdesc que brinda una descripcion larga de la img. No es obligatoria en el sitio web.
+
+2.d) Son etiquetas de Meta que le brindan informcaion al motor de busqueda sobre nuestra pag, la primera con el atributo name="keywords" le permite luego indicar las palabras claves a la hora de que algun usuario relaize una busqueda en la web, Y en la otra, con el atributo http-equiv="expires" le permite indicar la fecha de caducidad de la pag. Son necesarias para el buen funcionamiento de la pag y su busqueda a travez de la web.
+
+2.e)Es una etiqueta de tipo a que dirige a una pag web especifica, href especifica la URL a la que se dirigirá el enlace, atributo type especifica el tipo de contenido del recurso al que enlaza el enlace, atributo hreflang se utiliza para indicar el idioma del recurso al que enlaza el enlace, : Este atributo charset especifica el conjunto de caracteres utilizado en el recurso al que enlaza el enlace,  atributo rel se utiliza para indicar la relación entre la página actual y la página enlazada. No es obligatoria pero es muy util.
+
+2.f)Es una tabla width="200": Este atributo establece el ancho de la tabla en 200 unidades, atributo summary proporciona una descripción breve de la tabla para fines de accesibilidad,  el atributo align="top" indica que el título debe colocarse en la parte superior de la tabla. La etiqueta <tr> define una fila en la tabla.  La etiqueta <th> se utiliza para definir las celdas de encabezado en la tabla,  se utiliza el atributo scope="row" para indicar que esta celda es un encabezado de fila. No es necesario.
+  
