@@ -1,0 +1,9 @@
+3.a)
+En el primer link te abre la pag de google en la misma pestaña
+En el segundo abre la pag en una pestaña nuevas
+En la tercera abre la pag en la misma pestaña pero es esta se indica el tipo de documento al que lleva, si idioma, tipo de caracteres, y tipo de enlace(suponiendo que fue mal tipeada, ya qu ehay un especio en blanco entre wwww. y google.com.ar)
+En la cuarta nos llevara al inicio de la pag al hacer click
+En la quinta nos lleva a algun elemento con el id="arriba"
+En la sexta no mostrara nada, solo sirve para poder ir ahi atravez de su id
+
+3.b)
