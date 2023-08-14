@@ -1,0 +1,23 @@
+1)
+HTML, siglas en inglés de HyperText Markup Language (‘lenguaje de marcado de hipertexto’), hace referencia al lenguaje de marcado para la elaboración de páginas web. Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros.
+Fue lanzado en 1993 
+Sus versiones son HTML 2.0, HTML 3.2, HTML 4.01, HTML 5.0, HTML 5.1, HTML 5.2 siendo esta la version final.
+2)
+las recomendaciones son:
+    separar estructura y presentacion
+    considerar la accesibilidad universal a la web
+    ayudar a los agentes de usuario con la representacion incremental
+3)
+un elemento se considera desaprobado cuando queda anticuado por la presencia de estructuras nuevas. Estos pueden marcarse como obsoletos en futuras versiones
+un elemento es obsoleto cuando no hay garantia de soporte por parte de un agente de usuario. 
+4)En HTML 4.01, la declaración DOCTYPE refiere a una definición de tipo de documento (DTD, Document Type Definition). Un DTD define la estructura y los elementos legales de un documento XML.
+    DTD Estricto (Strict DTD): Usado por páginas web que excluyen atributos y elementos que la W3C espera ir eliminando a medida que crezca la compatibilidad con CSS.
+    DTD Transicional (Transitional DTD): Usado por páginas web que incluyen atributos y elementos que la W3C espera ir eliminando a medida que crezca la compatibilidad con CSS.
+    DTD Conjunto de marcos (Frameset DTD): Usado por páginas web con marcos.
+5) Un metadato es información sobre un documento más que contenido del propio documento
+    En general, la especificación de metadatos implica dos pasos:
+
+    1-Declaración de una propiedad y de un valor para esta propiedad.Esto puede hacerse de dos maneras:
+        -Desde dentro de un documento, por medio del elemento META.
+        -Desde fuera de un documento, vinculando los metadatos por medio del elemento LINK (véase la sección sobre tipos de vínculos).
+    2-Referencia a un perfil en el que se definen la propiedad y sus valores legales. Para designar un perfil, se usa el atributo profile del elemento HEAD.
