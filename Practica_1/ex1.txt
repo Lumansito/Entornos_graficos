@@ -17,6 +17,7 @@ un elemento es obsoleto cuando no hay garantia de soporte por parte de un agente
 5) Un metadato es información sobre un documento más que contenido del propio documento
     En general, la especificación de metadatos implica dos pasos:
 
+    
     1-Declaración de una propiedad y de un valor para esta propiedad.Esto puede hacerse de dos maneras:
         -Desde dentro de un documento, por medio del elemento META.
         -Desde fuera de un documento, vinculando los metadatos por medio del elemento LINK (véase la sección sobre tipos de vínculos).
