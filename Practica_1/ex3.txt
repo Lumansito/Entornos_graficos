@@ -7,3 +7,19 @@ En la quinta nos lleva a algun elemento con el id="arriba"
 En la sexta no mostrara nada, solo sirve para poder ir ahi atravez de su id
 
 3.b)
+1- aparecera la imagen im1.png y al lado un link que dice click aqui que nos llevara a la pag de google
+2- aparecera la imagen im1.ng que sera un link hacia la pag de google y al lado un texto que dice click aqui
+3- En este aparece la imagen y el texto seguidos, los dos al cliquearlos te llevan a google.com
+4- tiene el mismo funcionamiento que el 3 pero este tiene 2 links dsitintos a diferencia del 3
+
+3.c)
+1 aca aparece en lista pero sin orden
+2 aca aparecen en lista pero con la enumeracion del orden
+3 son 3 listas sin orden en las cuales en cada una hay una lista de un solo elemento oredenado en el cual se fue variando el numero del atrubuto Value para cambiar el nuemro que imprime antes del contenido
+4 devuleve una lista armada con los br dentro de una <blockquote> queda igual que el 2do ejemplo a efectos visuales
+
+3.d)
+1 aparece una tabla con 4 celdas cada una con su nombre
+2 aparece de la exacta misma manera la diferencia es que en el primero las cabecera de columnas son realmente cabeceras de columnas, en la otra son div con un grosor dsitintos de letra
+
+3.e)
