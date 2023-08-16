@@ -28,3 +28,17 @@ Tanto en el 1 y en el 2 muestran lo mismo con la diferencia que en el primero ut
 3.f)
 La diferencia entre estos dos casos es que en una se fusionan 2 filas para formar una celda de mayor tamaño con el uso de Rowspan y en el otro caso fusiona 2 columnas con el uso de colspan.
 
+3.g)
+Se utiliza diferentes formas para consguir una tabla muy similar pero con la diferencia que una tiene los bordes con cierta separacion en su estilo propio con el uso de los atributos de: cellpadding="0" cellspacing="0".
+
+3.h)
+En los 3 se utliza un formulario para realizar un menu de login, en el primero la contraseña es visible al tipearla, y al apretar enviar abre otra pag, la 2da pone invisible la contraseña y sigue abriendo otra pag al apretar enviar, y la terecera te permite elegir entre mostrar o no la contraseña y al tocar enviar no crea una pag nueva.
+
+3.i)
+En las 2 se define un boton, pero en una de ellas una imagen es parte del mismo boton.
+
+3.j)
+En los dos casos aparecen un selector con 2 opciones, con la diferencia que en uno en los atributos de name, estan llamados de igual manera lo que impide que se selecciones los 2 a la vez, a diferencia de los otros.
+
+3.k)
+En uno se muestra un Dropbox que muestras las opciones, y el otro muestra un listado dentro de una cajita con las mismas opciones.
