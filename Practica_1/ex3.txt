@@ -22,4 +22,9 @@ En la sexta no mostrara nada, solo sirve para poder ir ahi atravez de su id
 1 aparece una tabla con 4 celdas cada una con su nombre
 2 aparece de la exacta misma manera la diferencia es que en el primero las cabecera de columnas son realmente cabeceras de columnas, en la otra son div con un grosor dsitintos de letra
 
-3.e)
+3.e) 
+Tanto en el 1 y en el 2 muestran lo mismo con la diferencia que en el primero utiliza la etiqueta caption para colocar el titulo de la tabla, y en el otro usa un div
+
+3.f)
+La diferencia entre estos dos casos es que en una se fusionan 2 filas para formar una celda de mayor tamaño con el uso de Rowspan y en el otro caso fusiona 2 columnas con el uso de colspan.
+
