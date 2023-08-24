@@ -1,0 +1,11 @@
+Estas son agunas de las ventajas de HTML5:
+
+    No es un código propietario, por lo que no hay que pagar regalías por usarlo1.
+    Proporciona soporte de audio y video sin necesidad de plugins externos.
+    Tiene una estructura de etiquetas mejorada que permite definir los elementos de la página web con más claridad.
+    Es compatible con los navegadores web más populares y tiene un diseño responsivo.
+    Mejora el posicionamiento en buscadores como Google gracias a las etiquetas descriptivas3.
+
+Deberia utilizarlo porque es un standar mundial, te permite integrar contenido multimedia como audio o video sin el uso de extensiones.
+Te ayuda en el posicionamiento en los buscadores web entre muchas otras cosas.
+
