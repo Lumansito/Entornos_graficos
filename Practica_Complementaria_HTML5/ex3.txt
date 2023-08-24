@@ -1,0 +1,12 @@
+soporta los sig formatos de video:
+    Ogg Theora Vorbis
+    Ogg Opus
+    MP4 H.264 (AAC o MP3)
+    WAVE PCM
+
+Ejemplo de uso en html5:
+
+<html>
+    <video src="videofile.ogg" >
+</html>
+
