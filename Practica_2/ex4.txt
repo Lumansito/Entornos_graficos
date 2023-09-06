@@ -1,0 +1,15 @@
+En el primer código:
+
+El elemento body no tiene una clase específica, por lo que hereda el color de texto verde de la regla universal *.
+
+El párrafo (<p>) tiene la clase "contenido" y un estilo en línea (style="font-weight: normal;"). El estilo en línea tiene prioridad, por lo que se aplica un peso de fuente normal al párrafo, anulando el estilo "bold" de la clase "contenido". El párrafo también hereda el color de texto verde de la regla universal *.
+
+La tabla y el enlace (<a>) dentro de ella no tienen clases o estilos en línea que los afecten directamente, por lo que heredan el color de texto verde de la regla universal *.
+
+En el segundo código:
+El elemento body tiene la clase "contenido". Esto significa que el color de texto verde de la regla universal * se anula, y se aplica el estilo definido para la clase "contenido". El color de texto verde se reemplaza por un tamaño de fuente de 14px y un peso de fuente en negrita, mientras que el color de texto sigue siendo negro según la regla p.
+
+El párrafo (<p>) dentro del cuerpo hereda los estilos de la clase "contenido", por lo que tiene un tamaño de fuente de 14px y un peso de fuente en negrita.
+
+La tabla y el enlace (<a>) dentro de ella no tienen clases específicas que los afecten, por lo que también heredan los estilos de la clase "contenido".
+

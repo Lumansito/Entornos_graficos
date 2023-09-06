@@ -1,0 +1,5 @@
+La primera regla aplica el color de texto rojo a todos los párrafos (<p>) que tienen la clase "quitar".
+
+La segunda regla establece un tamaño de fuente de 8 píxeles para todos los elementos en la página que tienen la clase "desarrollo".
+
+La tercera regla define un tamaño de fuente de 20 píxeles para elementos con la clase "importante".
