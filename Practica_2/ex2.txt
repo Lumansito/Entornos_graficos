@@ -1,0 +1,3 @@
+La regla de estilo con id="normal" se aplica a los elementos <p> con este id, configurando la fuente en Arial o Helvetica, tamaño de fuente de 11 píxeles y peso de fuente en negrita.
+La regla con id="destacado" se aplica a varios elementos, incluidos los párrafos y una tabla con este id, creando un borde sólido azul de 2 píxeles en estos elementos.
+La regla id="distinto" se aplica a elementos con este id, estableciendo un fondo azul claro (#9EC7EB) y texto rojo en estos elementos específicos.

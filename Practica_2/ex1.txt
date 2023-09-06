@@ -1,0 +1,84 @@
+1)
+CSS, que significa "Cascading Style Sheets" en inglés (en español, "Hojas de Estilo en Cascada"),
+    es un lenguaje de marcado utilizado para controlar la presentación y el diseño de documentos web escritos en HTML y XHTML.
+    CSS se utiliza para describir cómo se deben mostrar los elementos HTML en una página web, incluyendo aspectos como el color,
+    la tipografía, el espaciado, el tamaño, la disposición y otros atributos visuales.
+2)
+CSS utiliza reglas de estilo para definir cómo deben presentarse los elementos HTML en una página web. Cada regla de estilo consta de dos partes principales: el selector y el bloque de declaración. Aquí te explico cómo funcionan:
+
+    Selector: El selector es una parte de la regla que indica a qué elementos HTML se aplicarán las declaraciones de estilo. Puede seleccionar elementos específicos, grupos de elementos o incluso clases y atributos específicos. 
+    Bloque de declaración: El bloque de declaración contiene una o más declaraciones de estilo y se encierra entre llaves {}. Cada declaración de estilo consiste en dos partes: una propiedad y un valor.
+3)
+CSS Externo: Esta es la forma más común y recomendada de dar estilo a un documento web. Consiste en crear un archivo CSS separado con todas las reglas de estilo y luego vincularlo al documento HTML usando la etiqueta <link>. Esto permite mantener la separación entre la estructura del contenido HTML y su presentación visual.
+CSS Interno (en línea): En lugar de tener un archivo CSS externo, puedes incluir las reglas de estilo directamente en la sección <style> del documento HTML. Esto es útil cuando deseas aplicar estilos específicos solo a una página en particular y no necesitas compartir esos estilos con otras páginas.
+CSS en línea (atributo style): Puedes aplicar estilos directamente a elementos individuales en línea utilizando el atributo style. Esto se hace dentro de las etiquetas HTML y anula cualquier estilo definido en archivos CSS externos o internos para ese elemento específico.
+4)
+
+/* Selector de tipo: Selecciona todos los elementos de un tipo específico */
+p {
+  color: blue;
+}
+
+/* Selector de clase: Selecciona elementos con una clase específica */
+.destacado {
+  background-color: yellow;
+}
+
+/* Selector de ID: Selecciona un elemento con un ID específico */
+#encabezado {
+  font-size: 24px;
+}
+
+/* Selector de descendencia: Selecciona elementos dentro de otro elemento */
+nav ul {
+  list-style-type: none;
+}
+
+/* Selector de atributo: Selecciona elementos con un atributo específico */
+a[href="https://www.ejemplo.com"] {
+  text-decoration: none;
+}
+
+/* Selector de pseudo-clase: Selecciona elementos en un estado específico */
+a:hover {
+  color: red;
+}
+
+/* Selector universal: Selecciona todos los elementos en la página */
+* {
+  margin: 0;
+  padding: 0;
+}
+5)
+Una pseudo-clase en CSS es una palabra clave que se agrega a un selector para seleccionar un estado o una parte específica de un elemento HTML. Las pseudo-clases permiten aplicar estilos a elementos en función de interacciones del usuario o estados específicos del elemento
+/* :hover: Cambia el color del texto y subraya un enlace cuando el cursor pasa sobre él */
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+/* :visited: Cambia el color del texto de los enlaces visitados */
+a:visited {
+  color: purple;
+}
+
+/* :active: Cambia el color del texto cuando se hace clic en un enlace */
+a:active {
+  color: green;
+}
+
+/* :focus: Cambia el borde de un elemento cuando recibe el enfoque (generalmente por teclado) */
+input:focus {
+  border-color: blue;
+}
+
+6)
+La herencia en CSS es un concepto fundamental que describe cómo los estilos se transmiten o se aplican automáticamente desde un elemento padre a sus elementos hijos en la estructura de un documento HTML. Esto significa que, en ausencia de estilos específicos para un elemento hijo, este heredará los estilos de su elemento padre.
+
+La herencia en CSS se aplica principalmente a propiedades de estilo, como el color del texto, la tipografía, el espaciado y otras propiedades visuales.
+
+7)El proceso de cascada en CSS se refiere a cómo se resuelven los conflictos de estilo cuando múltiples reglas afectan a un mismo elemento en una página web. Sigue un orden de prioridad que va desde los estilos definidos por el usuario y los estilos importantes hasta las reglas del autor y los estilos predeterminados del navegador. La especificidad y el orden de aparición también influyen en la resolución de conflictos. En última instancia, se aplica el estilo que tiene la mayor prioridad según estas reglas.
+
+
+
+
