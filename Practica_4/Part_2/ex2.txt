@@ -1,0 +1,3 @@
+a) Primero imprime "bar" luego "1" ya que php combierte el true en 1.
+b)Imprime 5, 9 y desp 42.
+c)No imprime nada, primero crea una matriz, con 2 clave-valor, asigna un valor nuevo sin clave,  asigna el valor 42 a la clave "x",  elimina  el elemento con clave 5 y finalmente elimina la matriz entera.

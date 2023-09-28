@@ -1,0 +1,3 @@
+a) Los 3 devuelven el mismo resultado, la cuenta ascendente del 1 al 10, solo cambia la forma de codificarse.
+b) Los imprimirán los números del 1 al 10 en orden simplemente cambia la forma de codificarse.
+c)En este caso pasa lo mismo, el funcionamiento difiere pero el resultado final es el mismo para ambos

@@ -1,0 +1,3 @@
+a) Produce en un archivo html una tabla con 5 columnas y 2 filas con un ancho del 90% de la pantalla y un borde de 1, con "blancos" en las celdas.
+b)Muestra un formulario para ingresar una edad y luego muestra un mensaje en función de si la edad ingresada es mayor o igual a 21 años. Si el formulario aún no se ha enviado, muestra el formulario
+ De lo contrario, muestra el resultado ssegun en la edad ingresada.

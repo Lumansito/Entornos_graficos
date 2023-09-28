@@ -1,0 +1,3 @@
+a) Devuelve la Hora, minuto, segundos, ya la fecha en la que se entro a la pag: eje "Has entrado en esta página a las 14 horas, con 30 minutos y 45 segundos, del 27/09/2023"
+b)Devuelve "5 + 6 = 11"
+

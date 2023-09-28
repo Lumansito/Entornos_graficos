@@ -1,0 +1,1 @@
+Primero dara un Erro porque en ell contexto inicial las 2 variables no han sido declaradas, luego de inluir el archivo, imprimira: "El clavel blanco"

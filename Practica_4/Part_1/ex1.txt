@@ -1,0 +1,26 @@
+Variables:
+    $a de tipo boolean
+    $b de tipo string
+    $c de tipo string
+    $d de tipo int
+    $f de tipo int
+
+Operadores:
+    * Multiplicacion
+    = Asignacion
+    += Aumenta una variable una determinada cantidad de enteros
+    ++$ es un pre-incremento
+    $++ es un post-incremento
+
+Funciones:
+    doble($i) devuelve el doble del valor pasado como parametro
+    is_strin($a) devuelve como boolean si el parametro pasado es de type string
+    getttype($a) devuelve el type de variable del parametro que se pasado
+
+
+Estructuras de Control:
+    if() is statement 
+    $x ? y:z operador ternario (if en linea) 
+
+Salida por Pantalla:
+    booleanstringstringinteger174444
