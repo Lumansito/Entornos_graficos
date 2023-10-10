@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+</head>
+<body>
+    <h1>Contacto</h1>
+    <div class="container">
+        <form method="post" action="./enviar_consulta.php">
+            <label for="nombre">Nombre:</label>
+            <input type="text" name="nombre" required>
+
+            <label for="correo">Correo electrónico:</label>
+            <input type="email" name="correo" required>
+
+            <label for="consulta">Consulta:</label>
+            <textarea name="consulta" rows="4" required></textarea>
+
+            <input type="submit" value="Enviar Consulta">
+        </form>
+    </div>
+</body>
+</html>
