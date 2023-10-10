@@ -12,13 +12,11 @@
             <label for="nombre">Nombre:</label>
             <input type="text" name="nombre" required>
             <label for="correoPropio">Correo electrónico propio:</label>
+            <input type="email" name="correoPropio" required>
             <label for="correo">Correo electrónico del amigo:</label>
             <input type="email" name="correo" required>
 
-            
-            <textarea name="consulta" rows="4" required></textarea>
-
-            <input type="submit" value="Enviar Consulta">
+            <input type="submit" value="Enviar Recomendacion">
         </form>
     
     </div>
