@@ -1,0 +1,25 @@
+1.
+mysqli_connect
+2.
+
+Nombre de usuario (Username): El nombre de usuario que se utilizará para autenticarse en el servidor de base de datos MySQL.
+
+Contraseña (Password): La contraseña asociada al nombre de usuario para la autenticación en el servidor de base de datos.
+3.
+mysqli_select_db
+4.
+El nombre de la coneccion (creada con mysqli_connect )
+Y el nombre de la Base de datos.
+5.
+se utiliza para ejecutar consultas SQL en una base de datos MySQL una vez que has establecido una conexión con la base de datos. 
+6.
+Conexión (Connection): Este es el primer parámetro y representa la conexión a la base de datos que se utilizará para ejecutar la consulta. Debes pasar la variable que contiene la conexión previamente establecida con la función mysqli_connect().
+
+Consulta SQL (Query): Este es el segundo parámetro y es una cadena de texto que contiene la consulta SQL que deseas ejecutar en la base de datos.
+7.
+
+Cuando se usa "or die()", suele ponerse al final de una parte del código que podría tener problemas. Si ocurre un error, esta parte detendrá la ejecución del programa y mostrará un mensaje de error en la pantalla del usuario. Esto es útil al crear o corregir aplicaciones, ya que te ayuda a encontrar y arreglar errores más fácilmente
+8.
+La función mysqli_error() se utiliza para obtener información detallada sobre un error que ha ocurrido en una operación de base de datos.
+9.
+En este codigo despues de obtener la consulta de la Query y guardarla en $Resultado, se la transfomra en un arreglo con mysqli_fetch_array() luego, se lo asigna a $fila y se recorre esta ultima con un arreglo normal mostrando todo su contenido, desde la posicion 0 a la 2, luego se liberan recursos con mysqli_free_result($vResultado) y finalmente se cierra la coneccion con mysqli_close($link).

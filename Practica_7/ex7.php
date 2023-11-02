@@ -8,7 +8,7 @@ $username = "root";
 
 // Conexión a la base de datos
 $conexion = new mysqli($servername, $username);
-
+mysqli_select_db($conexion, "Carro");
 
 if ($conexion->connect_error) {
     die("Error en la conexión a la base de datos: " . $conexion->connect_error);
